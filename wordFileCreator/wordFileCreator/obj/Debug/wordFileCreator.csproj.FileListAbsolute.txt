@@ -1,0 +1,9 @@
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\bin\Debug\wordFileCreator.exe.config
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\bin\Debug\wordFileCreator.exe
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\bin\Debug\wordFileCreator.pdb
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\bin\Debug\Xceed.Words.NET.dll
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\obj\Debug\wordFileCreator.csprojAssemblyReference.cache
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\obj\Debug\wordFileCreator.csproj.CoreCompileInputs.cache
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\obj\Debug\wordFileCreator.csproj.CopyComplete
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\obj\Debug\wordFileCreator.exe
+E:\Portfolio\GitHub Programs\wordFileCreator\wordFileCreator\obj\Debug\wordFileCreator.pdb
