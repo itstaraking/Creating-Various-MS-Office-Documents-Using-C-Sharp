@@ -1,0 +1,10 @@
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\bin\Debug\excelFileCreator.exe.config
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\bin\Debug\excelFileCreator.exe
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\bin\Debug\excelFileCreator.pdb
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\bin\Debug\EPPlus.dll
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\bin\Debug\EPPlus.xml
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\obj\Debug\excelFileCreator.csprojAssemblyReference.cache
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\obj\Debug\excelFileCreator.csproj.CoreCompileInputs.cache
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\obj\Debug\excelFileCreator.csproj.CopyComplete
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\obj\Debug\excelFileCreator.exe
+E:\Portfolio\GitHub Programs\excelFileCreator\excelFileCreator\obj\Debug\excelFileCreator.pdb
